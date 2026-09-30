@@ -1,8 +1,8 @@
-Enhanced client sacd_extract for Windows(64bit) & Linux(64bit) & macOS by euflo
+Enhanced client sacd_extract for Windows(64bit) & Linux(64bit) & macOS by euflo (and modified by maxxi9872)
 
-Version: 0.3.9.3 pre-release
+Version: 0.3.9.3 mac universal binary beta
 
-This app is fully compatible with SACDExtractGui.
+For test only.
 
 ***************************************************************************************
 Here are options and how to use sacd_extract with command prompt:
